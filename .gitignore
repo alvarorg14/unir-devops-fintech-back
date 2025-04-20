@@ -1,0 +1,15 @@
+target/
+.DS_Store
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# IDEA
+*.iml
+.idea/
+.springBeans
+
+# FIXME
+catalina.base_IS_UNDEFINED/
